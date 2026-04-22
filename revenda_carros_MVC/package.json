@@ -1,0 +1,16 @@
+{
+    "name": "revenda-carros-MVC",
+    "version": "1.0.0",
+    "description": "sistema MVC para revenda de carros",
+    "main": "server.js",
+    "scripts":{
+        "dev": "nodemon server.js",
+        "start": "node server.js"
+
+        {
+            "dependencies": {
+                "cors":""
+            }
+        }
+    }
+}
