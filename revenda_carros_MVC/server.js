@@ -3,11 +3,6 @@ const cors = require("cors");
 const path = require("path");
 require("dotenv").config();
 
-const express = require("express");
-const cors = require("cors");
-const path = require("path");
-require("dotenv").config();
-
 const clienteRoutes = require("./src/routes/clienteRoutes");
 const veiculoRoutes = require("./src/routes/veiculoRoutes");
 const vendaRoutes = require("./src/routes/vendaRoutes");
